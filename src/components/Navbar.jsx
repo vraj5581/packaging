@@ -50,7 +50,7 @@ const Navbar = () => {
                 letterSpacing: "-0.02em",
               }}
             >
-              Imperial Craft
+              Imperial Craft000000
               <span style={{ color: "var(--color-accent)" }}>Box</span>
             </span>
           </Link>
